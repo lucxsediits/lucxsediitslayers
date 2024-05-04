@@ -1,7 +1,7 @@
 What does v1 have?
 
-Adjustment layer button
-Camera button
+Adjustment layer button                                                            
+Camera button                                                                
 Null object button
 Jaws button
 Yyramp button
