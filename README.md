@@ -15,4 +15,5 @@ Button to create a frame
 Button to create composition                                                                
 Button to adjust Anchor Point                                                                
                                                                 
----------- updates coming soon                                                                
+---------- Updates coming soon                                                                
+---------- Eglish version coming soon                                                          
