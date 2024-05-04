@@ -1,5 +1,9 @@
-What does v1 have?
-
+Welcome to my first JSP project, the objective of this project is to help mmv editors.                                                               
+The script activation password is in the link below:                                                               
+https://discord.gg/wsPDZwVENV                                                               
+                                                               
+What does v1 have?                                                               
+                                                               
 Adjustment layer button                                                            
 Camera button                                                                
 Null object button                                                                
