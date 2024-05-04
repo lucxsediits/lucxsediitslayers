@@ -16,4 +16,4 @@ Button to create composition
 Button to adjust Anchor Point                                                                
                                                                 
 ---------- Updates coming soon                                                                
----------- Eglish version coming soon                                                          
+---------- English version coming soon                                                          
