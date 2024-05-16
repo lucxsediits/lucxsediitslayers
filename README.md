@@ -18,6 +18,8 @@ Button to adjust Anchor Point
                                                                 
 ---------- Updates coming soon.                                                                                                                      
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Versão em Português:
 Bem-vindo ao meu primeiro projeto JSX, o objetivo deste projeto é ajudar os editores de mmv.
 A senha de ativação do script está no link abaixo:
