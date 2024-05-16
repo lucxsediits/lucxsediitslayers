@@ -27,15 +27,15 @@ https://discord.gg/wsPDZwVENV
                                                                
 O que v1 tem?
                                                                
-Botão de camada de ajuste
-Botão da câmera
-Botão de objeto nulo
-Botão mandíbulas
-Botão Yyramp
-Botão de aparência
-Botão para criar sólido
-Botão para criar uma moldura
-Botão para criar composição
-Botão para ajustar o ponto de ancoragem
-                                                                
+Botão de camada de ajuste                                                                
+Botão da câmera                                                                
+Botão de objeto nulo                                                                
+Botão mandíbulas                                                                
+Botão Yyramp                                                                
+Botão de aparência                                                                
+Botão para criar sólido                                                                
+Botão para criar uma moldura                                                                                                                                
+Botão para criar composição                                                                
+Botão para ajustar o ponto de ancoragem                                                                
+                                                                                                                                
 ---------- Atualizações em breve.
