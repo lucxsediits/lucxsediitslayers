@@ -17,6 +17,7 @@ Button to create composition
 Button to adjust Anchor Point                                                                
                                                                 
 ---------- Updates coming soon.                                                                                                                      
+(NOTE: WHEN THE SCRIPT PASSWORD IS MISTAKED, AFTER EFFECTS IS AUTOMATICALLY CLOSED!)                                                                                                                      
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,3 +40,4 @@ Botão para criar composição
 Botão para ajustar o ponto de ancoragem                                                                
                                                                                                                                 
 ---------- Atualizações em breve.
+(OBS: AO ERRAR A SENHA DO SCRIPT O AFTER EFFECTS E FECHADO AUTOMATICAMENTE!)                                                                                                                      
