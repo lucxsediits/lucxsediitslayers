@@ -30,9 +30,9 @@ O que v1 tem?
 Botão de camada de ajuste                                                                
 Botão da câmera                                                                
 Botão de objeto nulo                                                                
-Botão mandíbulas                                                                
+Botão de jaws/bordas                                                                
 Botão Yyramp                                                                
-Botão de aparência                                                                
+Botão de looks                                                                
 Botão para criar sólido                                                                
 Botão para criar uma moldura                                                                                                                                
 Botão para criar composição                                                                
